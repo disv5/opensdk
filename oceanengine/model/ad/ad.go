@@ -3,8 +3,8 @@ package ad
 import (
 	"encoding/json"
 
-	"donson.com.cn/draining/internal/pkg/oceanengine/enum"
-	"donson.com.cn/draining/internal/pkg/oceanengine/model"
+	"github.com/disv5/opensdk/oceanengine/enum"
+	"github.com/disv5/opensdk/oceanengine/model"
 )
 
 // Ad 广告信息

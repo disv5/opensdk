@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"net/url"
 
-	"donson.com.cn/draining/internal/pkg/oceanengine/model"
+	"github.com/disv5/opensdk/oceanengine/model"
 )
 
 // SharedWalletBalanceGetRequest 获取共享钱包余额 API Request

@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"strconv"
 
-	"donson.com.cn/draining/internal/pkg/oceanengine/model"
+	"github.com/disv5/opensdk/oceanengine/model"
 )
 
 // InterestCategoryRequest 兴趣类目查询 API Request

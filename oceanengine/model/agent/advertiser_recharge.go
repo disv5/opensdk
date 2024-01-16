@@ -1,8 +1,8 @@
 package agent
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/model"
-	"donson.com.cn/draining/internal/pkg/oceanengine/util"
+	"github.com/disv5/opensdk/oceanengine/model"
+	"github.com/disv5/opensdk/oceanengine/util"
 )
 
 // AdvertiserRechargeRequest 代理商转账 API Request

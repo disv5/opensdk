@@ -1,6 +1,6 @@
 package star
 
-import "donson.com.cn/draining/internal/pkg/oceanengine/enum"
+import "github.com/disv5/opensdk/oceanengine/enum"
 
 // Demand 星图客户任务
 type Demand struct {

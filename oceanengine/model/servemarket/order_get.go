@@ -5,7 +5,7 @@ import (
 	"net/url"
 	"strconv"
 
-	"donson.com.cn/draining/internal/pkg/oceanengine/model"
+	"github.com/disv5/opensdk/oceanengine/model"
 )
 
 // OrderGetRequest 获取应用订单数据 API Request

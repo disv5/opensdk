@@ -1,8 +1,8 @@
 package file
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/core"
-	"donson.com.cn/draining/internal/pkg/oceanengine/model/file"
+	"github.com/disv5/opensdk/oceanengine/core"
+	"github.com/disv5/opensdk/oceanengine/model/file"
 )
 
 // VideoAdGet 获取同主体下广告主视频素材

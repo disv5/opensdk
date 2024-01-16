@@ -1,8 +1,8 @@
 package report
 
 import (
-	"donson.com.cn/draining/internal/pkg/uc/core"
-	"donson.com.cn/draining/internal/pkg/uc/model/report"
+	"github.com/disv5/opensdk/uc/core"
+	"github.com/disv5/opensdk/uc/model/report"
 )
 
 // DownloadFile 解析csv文件，返回多维数组

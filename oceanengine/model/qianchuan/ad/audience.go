@@ -1,8 +1,8 @@
 package ad
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/enum"
-	"donson.com.cn/draining/internal/pkg/oceanengine/enum/qianchuan"
+	"github.com/disv5/opensdk/oceanengine/enum"
+	"github.com/disv5/opensdk/oceanengine/enum/qianchuan"
 )
 
 // Audience 定向设置

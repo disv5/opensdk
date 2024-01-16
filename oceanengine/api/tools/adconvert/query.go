@@ -1,8 +1,8 @@
 package adconvert
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/core"
-	"donson.com.cn/draining/internal/pkg/oceanengine/model/tools/adconvert"
+	"github.com/disv5/opensdk/oceanengine/core"
+	"github.com/disv5/opensdk/oceanengine/model/tools/adconvert"
 )
 
 // Query 查询广告计划可用转化目标

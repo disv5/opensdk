@@ -1,8 +1,8 @@
 package report
 
 import (
-	"donson.com.cn/draining/internal/pkg/kwai-marketing-api/core"
-	"donson.com.cn/draining/internal/pkg/kwai-marketing-api/model/report"
+	"github.com/disv5/opensdk/kwai-marketing-api/core"
+	"github.com/disv5/opensdk/kwai-marketing-api/model/report"
 )
 
 // AgentReport 代理商数据（t-1数据需要第二天9点以后获取）

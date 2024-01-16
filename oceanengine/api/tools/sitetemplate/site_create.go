@@ -1,8 +1,8 @@
 package sitetemplate
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/core"
-	"donson.com.cn/draining/internal/pkg/oceanengine/model/tools/sitetemplate"
+	"github.com/disv5/opensdk/oceanengine/core"
+	"github.com/disv5/opensdk/oceanengine/model/tools/sitetemplate"
 )
 
 // SiteCreate 基于模板创建站点

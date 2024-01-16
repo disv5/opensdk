@@ -1,6 +1,6 @@
 package creative
 
-import "donson.com.cn/draining/internal/pkg/oceanengine/enum/qianchuan"
+import "github.com/disv5/opensdk/oceanengine/enum/qianchuan"
 
 // ImageMaterial 图片素材
 type ImageMaterial struct {

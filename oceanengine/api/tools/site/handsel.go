@@ -1,8 +1,8 @@
 package site
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/core"
-	"donson.com.cn/draining/internal/pkg/oceanengine/model/tools/site"
+	"github.com/disv5/opensdk/oceanengine/core"
+	"github.com/disv5/opensdk/oceanengine/model/tools/site"
 )
 
 // Handsel 建站工具-建站转赠

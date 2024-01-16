@@ -1,7 +1,7 @@
 package ad
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/util"
+	"github.com/disv5/opensdk/oceanengine/util"
 )
 
 // UpdateBidRequest 更新计划出价 API Request

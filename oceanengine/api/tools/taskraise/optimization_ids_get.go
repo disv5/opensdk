@@ -1,9 +1,9 @@
 package taskraise
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/core"
-	"donson.com.cn/draining/internal/pkg/oceanengine/enum"
-	"donson.com.cn/draining/internal/pkg/oceanengine/model/tools/taskraise"
+	"github.com/disv5/opensdk/oceanengine/core"
+	"github.com/disv5/opensdk/oceanengine/enum"
+	"github.com/disv5/opensdk/oceanengine/model/tools/taskraise"
 )
 
 // OptimizationIDsGet 查询优选起量状态

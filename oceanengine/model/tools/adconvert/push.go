@@ -1,7 +1,7 @@
 package adconvert
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/util"
+	"github.com/disv5/opensdk/oceanengine/util"
 )
 
 // PushRequest 转化目标推送 API Request

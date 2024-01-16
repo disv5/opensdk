@@ -5,7 +5,7 @@ import (
 	"net/url"
 	"strconv"
 
-	"donson.com.cn/draining/internal/pkg/oceanengine/model"
+	"github.com/disv5/opensdk/oceanengine/model"
 )
 
 // GetRequest 获取站点模版列表 API Request

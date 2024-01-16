@@ -3,7 +3,7 @@ package comment
 import (
 	"encoding/json"
 
-	"donson.com.cn/draining/internal/pkg/oceanengine/model"
+	"github.com/disv5/opensdk/oceanengine/model"
 )
 
 // Reply 评论回复

@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"strconv"
 
-	"donson.com.cn/draining/internal/pkg/oceanengine/model"
+	"github.com/disv5/opensdk/oceanengine/model"
 )
 
 // AvatarGetRequest 获取广告主头像信息 API Request

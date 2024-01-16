@@ -1,8 +1,8 @@
 package lp
 
 import (
-	"donson.com.cn/draining/internal/pkg/kwai-marketing-api/core"
-	"donson.com.cn/draining/internal/pkg/kwai-marketing-api/model/lp"
+	"github.com/disv5/opensdk/kwai-marketing-api/core"
+	"github.com/disv5/opensdk/kwai-marketing-api/model/lp"
 )
 
 // ConsultList 获取可用咨询组件列表

@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"net/url"
 
-	"donson.com.cn/draining/internal/pkg/oceanengine/enum"
-	"donson.com.cn/draining/internal/pkg/oceanengine/model"
+	"github.com/disv5/opensdk/oceanengine/enum"
+	"github.com/disv5/opensdk/oceanengine/model"
 )
 
 // InfoRequest 广告主信息 API Request

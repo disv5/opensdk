@@ -5,7 +5,7 @@ import (
 	"net/url"
 	"strconv"
 
-	"donson.com.cn/draining/internal/pkg/oceanengine/model"
+	"github.com/disv5/opensdk/oceanengine/model"
 )
 
 // CostProtectStatusGetRequest 批量获取计划成本保障状态 API Request

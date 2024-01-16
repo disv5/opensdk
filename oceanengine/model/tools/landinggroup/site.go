@@ -1,6 +1,6 @@
 package landinggroup
 
-import "donson.com.cn/draining/internal/pkg/oceanengine/enum"
+import "github.com/disv5/opensdk/oceanengine/enum"
 
 // Site 站点
 type Site struct {

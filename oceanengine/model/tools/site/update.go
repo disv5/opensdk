@@ -1,7 +1,7 @@
 package site
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/util"
+	"github.com/disv5/opensdk/oceanengine/util"
 )
 
 // UpdateRequest 修改橙子建站站点 API Request

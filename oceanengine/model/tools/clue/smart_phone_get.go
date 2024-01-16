@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"strconv"
 
-	"donson.com.cn/draining/internal/pkg/oceanengine/model"
+	"github.com/disv5/opensdk/oceanengine/model"
 )
 
 // SmartPhoneGetRequest 建站工具——查询已有智能电话 API Request

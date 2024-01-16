@@ -1,8 +1,8 @@
 package promotion
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanenginev3/core"
-	"donson.com.cn/draining/internal/pkg/oceanenginev3/model/promotion"
+	"github.com/disv5/opensdk/oceanenginev3/core"
+	"github.com/disv5/opensdk/oceanenginev3/model/promotion"
 )
 
 func List(clt *core.SDKClient, accessToken string, req *promotion.ListRequest) (*promotion.ListResponseData, error) {

@@ -1,9 +1,9 @@
 package terms
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/model"
-	"donson.com.cn/draining/internal/pkg/oceanengine/util"
-	"donson.com.cn/draining/internal/pkg/oceanenginev3/model/promotion"
+	"github.com/disv5/opensdk/oceanengine/model"
+	"github.com/disv5/opensdk/oceanengine/util"
+	"github.com/disv5/opensdk/oceanenginev3/model/promotion"
 	"net/url"
 	"strconv"
 )

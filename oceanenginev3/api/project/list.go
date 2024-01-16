@@ -1,8 +1,8 @@
 package project
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanenginev3/core"
-	promotion "donson.com.cn/draining/internal/pkg/oceanenginev3/model/project"
+	"github.com/disv5/opensdk/oceanenginev3/core"
+	promotion "github.com/disv5/opensdk/oceanenginev3/model/project"
 )
 
 func List(clt *core.SDKClient, accessToken string, req *promotion.GetProjectListReq) (*promotion.ProjectListItemData, error) {

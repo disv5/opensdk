@@ -1,8 +1,8 @@
 package dmp
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/core"
-	"donson.com.cn/draining/internal/pkg/oceanengine/model/qianchuan/dmp"
+	"github.com/disv5/opensdk/oceanengine/core"
+	"github.com/disv5/opensdk/oceanengine/model/qianchuan/dmp"
 )
 
 // AudiencesGet 查询人群包列表

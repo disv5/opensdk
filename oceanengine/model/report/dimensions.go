@@ -1,6 +1,6 @@
 package report
 
-import "donson.com.cn/draining/internal/pkg/oceanengine/enum"
+import "github.com/disv5/opensdk/oceanengine/enum"
 
 // Dimensions 维度数据
 type Dimensions struct {

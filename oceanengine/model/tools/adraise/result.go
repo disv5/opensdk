@@ -4,8 +4,8 @@ import (
 	"net/url"
 	"strconv"
 
-	"donson.com.cn/draining/internal/pkg/oceanengine/enum"
-	"donson.com.cn/draining/internal/pkg/oceanengine/model"
+	"github.com/disv5/opensdk/oceanengine/enum"
+	"github.com/disv5/opensdk/oceanengine/model"
 )
 
 // ResultRequest 获取一键起量的后验数据 API Request

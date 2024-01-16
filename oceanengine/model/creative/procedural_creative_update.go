@@ -1,6 +1,6 @@
 package creative
 
-import "donson.com.cn/draining/internal/pkg/oceanengine/util"
+import "github.com/disv5/opensdk/oceanengine/util"
 
 // ProceduralCreativeUpdateRequest 修改程序化创意（营销链路） API Request
 type ProceduralCreativeUpdateRequest struct {

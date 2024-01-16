@@ -1,6 +1,6 @@
 package clue
 
-import "donson.com.cn/draining/internal/pkg/oceanengine/model"
+import "github.com/disv5/opensdk/oceanengine/model"
 
 // Clue 线索
 type Clue struct {

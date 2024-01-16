@@ -1,8 +1,8 @@
 package liveroom
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/core"
-	"donson.com.cn/draining/internal/pkg/oceanengine/model/report/liveroom"
+	"github.com/disv5/opensdk/oceanengine/core"
+	"github.com/disv5/opensdk/oceanengine/model/report/liveroom"
 )
 
 // FlowCategoryGet 直播间流量来源报表

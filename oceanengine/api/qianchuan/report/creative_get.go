@@ -1,8 +1,8 @@
 package report
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/core"
-	"donson.com.cn/draining/internal/pkg/oceanengine/model/qianchuan/report"
+	"github.com/disv5/opensdk/oceanengine/core"
+	"github.com/disv5/opensdk/oceanengine/model/qianchuan/report"
 )
 
 // CreativeGet 广告创意数据

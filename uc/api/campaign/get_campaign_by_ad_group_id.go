@@ -1,8 +1,8 @@
 package campaign
 
 import (
-	"donson.com.cn/draining/internal/pkg/uc/core"
-	"donson.com.cn/draining/internal/pkg/uc/model/campaign"
+	"github.com/disv5/opensdk/uc/core"
+	"github.com/disv5/opensdk/uc/model/campaign"
 )
 
 func GetCampaignByAdGroupId(clt *core.SDKClient, req *campaign.GetCampaignByAdGroupIdRequest) (*campaign.GetCampaignByAdGroupIdResponse, error) {

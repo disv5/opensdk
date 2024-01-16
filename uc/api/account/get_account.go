@@ -1,8 +1,8 @@
 package account
 
 import (
-	"donson.com.cn/draining/internal/pkg/uc/core"
-	"donson.com.cn/draining/internal/pkg/uc/model/account"
+	"github.com/disv5/opensdk/uc/core"
+	"github.com/disv5/opensdk/uc/model/account"
 )
 
 // GetAccount 获取username所对应的账户信息

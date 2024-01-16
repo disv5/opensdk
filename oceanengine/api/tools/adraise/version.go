@@ -1,8 +1,8 @@
 package adraise
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/core"
-	"donson.com.cn/draining/internal/pkg/oceanengine/model/tools/adraise"
+	"github.com/disv5/opensdk/oceanengine/core"
+	"github.com/disv5/opensdk/oceanengine/model/tools/adraise"
 )
 
 // Version “获取起量版本信息”用于获取计划在多次起量过程中产生的起量版本号及对应的起止时间。

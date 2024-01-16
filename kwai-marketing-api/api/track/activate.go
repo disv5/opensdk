@@ -9,8 +9,8 @@ import (
 	"log"
 	"net/http"
 
-	"donson.com.cn/draining/internal/pkg/kwai-marketing-api/core"
-	"donson.com.cn/draining/internal/pkg/kwai-marketing-api/model/track"
+	"github.com/disv5/opensdk/kwai-marketing-api/core"
+	"github.com/disv5/opensdk/kwai-marketing-api/model/track"
 )
 
 // Activate 转化回传API

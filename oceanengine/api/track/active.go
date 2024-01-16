@@ -7,8 +7,8 @@ import (
 	"strconv"
 	"strings"
 
-	"donson.com.cn/draining/internal/pkg/oceanengine/enum"
-	"donson.com.cn/draining/internal/pkg/oceanengine/model/track"
+	"github.com/disv5/opensdk/oceanengine/enum"
+	"github.com/disv5/opensdk/oceanengine/model/track"
 )
 
 // Active API上报数据(new)

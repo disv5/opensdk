@@ -1,8 +1,8 @@
 package report
 
 import (
-	"donson.com.cn/draining/internal/pkg/uc/core"
-	"donson.com.cn/draining/internal/pkg/uc/model/report"
+	"github.com/disv5/opensdk/uc/core"
+	"github.com/disv5/opensdk/uc/model/report"
 )
 
 func Campaign(clt *core.SDKClient, req *report.CampaignRequest) (*report.CampaignResponse, error) {
@@ -13,4 +13,3 @@ func Campaign(clt *core.SDKClient, req *report.CampaignRequest) (*report.Campaig
 	}
 	return &resp, nil
 }
-

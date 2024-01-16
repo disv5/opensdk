@@ -1,12 +1,12 @@
 package report
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanenginev3/enum"
 	"encoding/json"
+	"github.com/disv5/opensdk/oceanenginev3/enum"
 	"net/url"
 	"strconv"
 
-	"donson.com.cn/draining/internal/pkg/oceanenginev3/model"
+	"github.com/disv5/opensdk/oceanenginev3/model"
 )
 
 // GetRequest 获取广告计划 API Request

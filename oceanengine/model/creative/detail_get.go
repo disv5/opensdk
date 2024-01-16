@@ -1,10 +1,9 @@
 package creative
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/model"
+	"github.com/disv5/opensdk/oceanengine/model"
 	"net/url"
 	"strconv"
-
 )
 
 // DetailGetRequest 创意详细信息(新)API Request

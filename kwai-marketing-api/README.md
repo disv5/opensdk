@@ -1,12 +1,12 @@
 # 快手磁力引擎MarketingAPI Golang SDK
 
-[![Go Reference](https://pkg.go.dev/badge/donson.com.cn/draining/internal/pkg/kwai-marketing-api.svg)](https://pkg.go.dev/donson.com.cn/draining/internal/pkg/kwai-marketing-api)
-[![Go](https://donson.com.cn/draining/internal/pkg/kwai-marketing-api/actions/workflows/go.yml/badge.svg)](https://donson.com.cn/draining/internal/pkg/kwai-marketing-api/actions/workflows/go.yml)
-[![goreleaser](https://donson.com.cn/draining/internal/pkg/kwai-marketing-api/actions/workflows/goreleaser.yml/badge.svg)](https://donson.com.cn/draining/internal/pkg/kwai-marketing-api/actions/workflows/goreleaser.yml)
-[![GitHub go.mod Go version of a Go module](https://img.shields.io/github/go-mod/go-version/bububa/kwai-marketing-api.svg)](https://donson.com.cn/draining/internal/pkg/kwai-marketing-api)
-[![GoReportCard](https://goreportcard.com/badge/donson.com.cn/draining/internal/pkg/kwai-marketing-api)](https://goreportcard.com/report/donson.com.cn/draining/internal/pkg/kwai-marketing-api)
-[![GitHub license](https://img.shields.io/github/license/bububa/kwai-marketing-api.svg)](https://donson.com.cn/draining/internal/pkg/kwai-marketing-api/blob/master/LICENSE)
-[![GitHub release](https://img.shields.io/github/release/bububa/kwai-marketing-api.svg)](https://donson.com.cn/draining/internal/pkg/kwai-marketing-api/releases/)
+[![Go Reference](https://pkg.go.dev/badge/github.com/disv5/opensdk/kwai-marketing-api.svg)](https://pkg.go.dev/github.com/disv5/opensdk/kwai-marketing-api)
+[![Go](https://github.com/disv5/opensdk/kwai-marketing-api/actions/workflows/go.yml/badge.svg)](https://github.com/disv5/opensdk/kwai-marketing-api/actions/workflows/go.yml)
+[![goreleaser](https://github.com/disv5/opensdk/kwai-marketing-api/actions/workflows/goreleaser.yml/badge.svg)](https://github.com/disv5/opensdk/kwai-marketing-api/actions/workflows/goreleaser.yml)
+[![GitHub go.mod Go version of a Go module](https://img.shields.io/github/go-mod/go-version/bububa/kwai-marketing-api.svg)](https://github.com/disv5/opensdk/kwai-marketing-api)
+[![GoReportCard](https://goreportcard.com/badge/github.com/disv5/opensdk/kwai-marketing-api)](https://goreportcard.com/report/github.com/disv5/opensdk/kwai-marketing-api)
+[![GitHub license](https://img.shields.io/github/license/bububa/kwai-marketing-api.svg)](https://github.com/disv5/opensdk/kwai-marketing-api/blob/master/LICENSE)
+[![GitHub release](https://img.shields.io/github/release/bububa/kwai-marketing-api.svg)](https://github.com/disv5/opensdk/kwai-marketing-api/releases/)
 
 
 - Oauth2 授权 (api/oauth)

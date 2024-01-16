@@ -3,7 +3,7 @@ package unit
 import (
 	"encoding/json"
 
-	"donson.com.cn/draining/internal/pkg/kwai-marketing-api/model/target"
+	"github.com/disv5/opensdk/kwai-marketing-api/model/target"
 )
 
 // UpdateUnionRequest 修改联盟定投广告组APIRequest

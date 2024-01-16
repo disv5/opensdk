@@ -1,6 +1,6 @@
 package dpa
 
-import "donson.com.cn/draining/internal/pkg/oceanengine/model"
+import "github.com/disv5/opensdk/oceanengine/model"
 
 // Product 商品详情
 type Product struct {

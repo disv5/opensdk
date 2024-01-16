@@ -1,8 +1,8 @@
 package adraise
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/core"
-	"donson.com.cn/draining/internal/pkg/oceanengine/model/tools/adraise"
+	"github.com/disv5/opensdk/oceanengine/core"
+	"github.com/disv5/opensdk/oceanengine/model/tools/adraise"
 )
 
 // Result 获取一键起量的后验数据: 用来获取一键起量的后验数据

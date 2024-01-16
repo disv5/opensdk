@@ -1,9 +1,9 @@
 package customaudience
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/core"
-	"donson.com.cn/draining/internal/pkg/oceanengine/model"
-	"donson.com.cn/draining/internal/pkg/oceanengine/model/dmp/customaudience"
+	"github.com/disv5/opensdk/oceanengine/core"
+	"github.com/disv5/opensdk/oceanengine/model"
+	"github.com/disv5/opensdk/oceanengine/model/dmp/customaudience"
 )
 
 // Publish 发布人群包

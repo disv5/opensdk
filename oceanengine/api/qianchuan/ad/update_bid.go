@@ -1,8 +1,8 @@
 package ad
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/core"
-	"donson.com.cn/draining/internal/pkg/oceanengine/model/qianchuan/ad"
+	"github.com/disv5/opensdk/oceanengine/core"
+	"github.com/disv5/opensdk/oceanengine/model/qianchuan/ad"
 )
 
 // UpdateBid 更新计划出价

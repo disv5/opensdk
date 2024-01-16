@@ -1,6 +1,6 @@
 package qlorderplan
 
-import "donson.com.cn/draining/internal/pkg/iqiyi/model"
+import "github.com/disv5/opensdk/iqiyi/model"
 
 type ListResponse struct {
 	PageInfo model.PageInfo `json:"pageInfo"`

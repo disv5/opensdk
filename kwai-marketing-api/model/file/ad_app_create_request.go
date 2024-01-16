@@ -3,7 +3,7 @@ package file
 import (
 	"strconv"
 
-	"donson.com.cn/draining/internal/pkg/kwai-marketing-api/model"
+	"github.com/disv5/opensdk/kwai-marketing-api/model"
 )
 
 // AdAppCreateRequest 创建应用 API Request

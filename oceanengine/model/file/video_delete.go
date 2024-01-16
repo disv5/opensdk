@@ -1,8 +1,8 @@
 package file
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/model"
-	"donson.com.cn/draining/internal/pkg/oceanengine/util"
+	"github.com/disv5/opensdk/oceanengine/model"
+	"github.com/disv5/opensdk/oceanengine/util"
 )
 
 // VideoDeleteRequest 批量删除视频素材 API Request

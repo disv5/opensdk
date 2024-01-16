@@ -1,8 +1,8 @@
 package dpa
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/core"
-	"donson.com.cn/draining/internal/pkg/oceanengine/model/dpa"
+	"github.com/disv5/opensdk/oceanengine/core"
+	"github.com/disv5/opensdk/oceanengine/model/dpa"
 )
 
 // ProductAvailables 获取商品库信息

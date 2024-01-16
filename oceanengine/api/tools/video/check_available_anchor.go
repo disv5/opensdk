@@ -1,8 +1,8 @@
 package video
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/core"
-	"donson.com.cn/draining/internal/pkg/oceanengine/model/tools/video"
+	"github.com/disv5/opensdk/oceanengine/core"
+	"github.com/disv5/opensdk/oceanengine/model/tools/video"
 )
 
 // CheckAvailableAnchor 查询视频是否挂载下载类锚点

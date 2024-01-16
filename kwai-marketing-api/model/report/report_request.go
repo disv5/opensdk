@@ -1,6 +1,6 @@
 package report
 
-import "donson.com.cn/draining/internal/pkg/kwai-marketing-api/model"
+import "github.com/disv5/opensdk/kwai-marketing-api/model"
 
 // ReportRequest 数据报表APIRequest公用数据
 type ReportRequest struct {

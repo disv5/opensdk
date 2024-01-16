@@ -1,8 +1,8 @@
 package tools
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/core"
-	"donson.com.cn/draining/internal/pkg/oceanengine/model/tools"
+	"github.com/disv5/opensdk/oceanengine/core"
+	"github.com/disv5/opensdk/oceanengine/model/tools"
 )
 
 // PromotionCardRecommendTitleGet 查询推广卡片推荐内容（新版）

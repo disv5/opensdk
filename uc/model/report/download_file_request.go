@@ -1,13 +1,13 @@
 package report
 
 import (
-	"donson.com.cn/draining/internal/pkg/uc/model"
 	"encoding/json"
+	"github.com/disv5/opensdk/uc/model"
 )
 
 type DownloadFileRequest struct {
 	Header model.HeaderTarget `json:"header"`
-	Body   DownloadFileBody `json:"body"`
+	Body   DownloadFileBody   `json:"body"`
 }
 
 type DownloadFileBody struct {

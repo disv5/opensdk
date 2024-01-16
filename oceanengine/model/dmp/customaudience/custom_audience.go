@@ -1,6 +1,6 @@
 package customaudience
 
-import "donson.com.cn/draining/internal/pkg/oceanengine/enum"
+import "github.com/disv5/opensdk/oceanengine/enum"
 
 // CustomAudience 人群包
 type CustomAudience struct {

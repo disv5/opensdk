@@ -1,8 +1,8 @@
 package shop
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/core"
-	"donson.com.cn/draining/internal/pkg/oceanengine/model/qianchuan/shop"
+	"github.com/disv5/opensdk/oceanengine/core"
+	"github.com/disv5/opensdk/oceanengine/model/qianchuan/shop"
 )
 
 // Get 获取店铺账户信息

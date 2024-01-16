@@ -1,8 +1,8 @@
 package ad
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/core"
-	"donson.com.cn/draining/internal/pkg/oceanengine/model/ad"
+	"github.com/disv5/opensdk/oceanengine/core"
+	"github.com/disv5/opensdk/oceanengine/model/ad"
 )
 
 // CostProtectStatusGet 批量获取计划成本保障状态

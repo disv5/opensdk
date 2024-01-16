@@ -1,6 +1,6 @@
 package dpa
 
-import "donson.com.cn/draining/internal/pkg/oceanengine/enum"
+import "github.com/disv5/opensdk/oceanengine/enum"
 
 // Platform 商品库详情
 type Platform struct {

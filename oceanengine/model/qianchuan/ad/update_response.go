@@ -1,6 +1,6 @@
 package ad
 
-import "donson.com.cn/draining/internal/pkg/oceanengine/model"
+import "github.com/disv5/opensdk/oceanengine/model"
 
 // UpdateResponse 计划更新 API Response
 type UpdateResponse struct {

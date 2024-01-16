@@ -1,8 +1,8 @@
 package asynctask
 
 import (
-	"donson.com.cn/draining/internal/pkg/kwai-marketing-api/core"
-	"donson.com.cn/draining/internal/pkg/kwai-marketing-api/model/report/asynctask"
+	"github.com/disv5/opensdk/kwai-marketing-api/core"
+	"github.com/disv5/opensdk/kwai-marketing-api/model/report/asynctask"
 )
 
 // Create 创建历史数据查询任务

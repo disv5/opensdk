@@ -1,6 +1,6 @@
 package creative
 
-import "donson.com.cn/draining/internal/pkg/oceanengine/enum"
+import "github.com/disv5/opensdk/oceanengine/enum"
 
 // CreativeInfo 创意信息
 type CreativeInfo struct {

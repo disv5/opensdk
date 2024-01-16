@@ -1,8 +1,8 @@
 package asynctask
 
 import (
-	"donson.com.cn/draining/internal/pkg/kwai-marketing-api/core"
-	"donson.com.cn/draining/internal/pkg/kwai-marketing-api/model/report/asynctask"
+	"github.com/disv5/opensdk/kwai-marketing-api/core"
+	"github.com/disv5/opensdk/kwai-marketing-api/model/report/asynctask"
 )
 
 func List(clt *core.SDKClient, accessToken string, req *asynctask.ListRequest) (*asynctask.ListResponse, error) {

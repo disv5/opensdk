@@ -1,8 +1,8 @@
 package site
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/model"
-	"donson.com.cn/draining/internal/pkg/oceanengine/util"
+	"github.com/disv5/opensdk/oceanengine/model"
+	"github.com/disv5/opensdk/oceanengine/util"
 )
 
 // HandselRequest 建站工具-建站转赠 API Request

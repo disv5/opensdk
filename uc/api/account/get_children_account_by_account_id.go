@@ -1,8 +1,8 @@
 package account
 
 import (
-	"donson.com.cn/draining/internal/pkg/uc/core"
-	"donson.com.cn/draining/internal/pkg/uc/model/account"
+	"github.com/disv5/opensdk/uc/core"
+	"github.com/disv5/opensdk/uc/model/account"
 )
 
 // GetChildrenAccountByAccountId 获取当前账户管家或者代理商下的子账户列表

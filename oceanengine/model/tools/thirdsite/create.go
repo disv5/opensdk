@@ -1,8 +1,8 @@
 package thirdsite
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/model"
-	"donson.com.cn/draining/internal/pkg/oceanengine/util"
+	"github.com/disv5/opensdk/oceanengine/model"
+	"github.com/disv5/opensdk/oceanengine/util"
 )
 
 // CreateRequest 创建第三方落地页站点 API Request

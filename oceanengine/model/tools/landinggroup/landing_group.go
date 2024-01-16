@@ -1,6 +1,6 @@
 package landinggroup
 
-import "donson.com.cn/draining/internal/pkg/oceanengine/enum"
+import "github.com/disv5/opensdk/oceanengine/enum"
 
 // LandingGroup 落地页组
 type LandingGroup struct {

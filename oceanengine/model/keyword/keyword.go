@@ -1,6 +1,6 @@
 package keyword
 
-import "donson.com.cn/draining/internal/pkg/oceanengine/enum"
+import "github.com/disv5/opensdk/oceanengine/enum"
 
 // Keyword 关键词
 type Keyword struct {

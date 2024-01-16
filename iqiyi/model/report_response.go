@@ -1,7 +1,7 @@
 package model
 
 import (
-	"donson.com.cn/draining/internal/pkg/iqiyi/model/report/order"
+	"github.com/disv5/opensdk/iqiyi/model/report/order"
 )
 
 type ReportResponse struct {
@@ -10,5 +10,5 @@ type ReportResponse struct {
 	Data           []order.ReportData `json:"data,omitempty"`    // JSON返回值
 	TraceId        string             `json:"traceId,omitempty"` // 请求id
 	LastUpdateTime string             `json:"lastUpdateTime,omitempty"`
-	TotalCount     int               `json:"totalCount,omitempty"`
+	TotalCount     int                `json:"totalCount,omitempty"`
 }

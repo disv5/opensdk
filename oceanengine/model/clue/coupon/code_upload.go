@@ -4,7 +4,7 @@ import (
 	"io"
 	"strconv"
 
-	"donson.com.cn/draining/internal/pkg/oceanengine/model"
+	"github.com/disv5/opensdk/oceanengine/model"
 )
 
 // CodeUploadRequest 上传券码 API Request

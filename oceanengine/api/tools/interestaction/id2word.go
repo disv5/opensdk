@@ -1,8 +1,8 @@
 package interestaction
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/core"
-	"donson.com.cn/draining/internal/pkg/oceanengine/model/tools/interestaction"
+	"github.com/disv5/opensdk/oceanengine/core"
+	"github.com/disv5/opensdk/oceanengine/model/tools/interestaction"
 )
 
 // Id2Word 兴趣行为类目关键词id转词

@@ -1,6 +1,6 @@
 package asynctask
 
-import "donson.com.cn/draining/internal/pkg/kwai-marketing-api/model"
+import "github.com/disv5/opensdk/kwai-marketing-api/model"
 
 // TaskParams 任务参数
 type TaskParams struct {

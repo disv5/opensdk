@@ -1,6 +1,6 @@
 package audience
 
-import "donson.com.cn/draining/internal/pkg/oceanengine/enum"
+import "github.com/disv5/opensdk/oceanengine/enum"
 
 // Filtering 过滤条件
 type Filtering struct {

@@ -1,8 +1,8 @@
 package adgroup
 
 import (
-	"donson.com.cn/draining/internal/pkg/uc/core"
-	"donson.com.cn/draining/internal/pkg/uc/model/adgroup"
+	"github.com/disv5/opensdk/uc/core"
+	"github.com/disv5/opensdk/uc/model/adgroup"
 )
 
 func GetAllAdGroupId(clt *core.SDKClient, req *adgroup.GetAllAdGroupIdRequest) (*adgroup.GetAllAdGroupIdResponse, error) {

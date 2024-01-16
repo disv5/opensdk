@@ -1,6 +1,6 @@
 package star
 
-import "donson.com.cn/draining/internal/pkg/oceanengine/enum"
+import "github.com/disv5/opensdk/oceanengine/enum"
 
 // Clue 星图订单投后线索
 type Clue struct {

@@ -11,9 +11,9 @@ package api
 
 import (
 	"context"
-	"donson.com.cn/draining/internal/pkg/tencent/errors"
-	. "donson.com.cn/draining/internal/pkg/tencent/model"
 	"github.com/antihax/optional"
+	"github.com/disv5/opensdk/tencent/errors"
+	. "github.com/disv5/opensdk/tencent/model"
 	"io/ioutil"
 	"net/http"
 	"net/url"

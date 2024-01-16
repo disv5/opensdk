@@ -1,8 +1,8 @@
 package adconvert
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/enum"
-	"donson.com.cn/draining/internal/pkg/oceanengine/util"
+	"github.com/disv5/opensdk/oceanengine/enum"
+	"github.com/disv5/opensdk/oceanengine/util"
 )
 
 // UpdateStatusRequest 更新转化目标操作状态

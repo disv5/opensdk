@@ -1,6 +1,6 @@
 package comment
 
-import "donson.com.cn/draining/internal/pkg/oceanengine/enum"
+import "github.com/disv5/opensdk/oceanengine/enum"
 
 // Comment 评论
 type Comment struct {

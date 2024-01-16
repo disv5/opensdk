@@ -1,8 +1,8 @@
 package report
 
 import (
-	"donson.com.cn/draining/internal/pkg/uc/core"
-	"donson.com.cn/draining/internal/pkg/uc/model/report"
+	"github.com/disv5/opensdk/uc/core"
+	"github.com/disv5/opensdk/uc/model/report"
 )
 
 func GetFile(clt *core.SDKClient, req *report.GetFileRequest) (*report.GetFileResponse, error) {
@@ -13,4 +13,3 @@ func GetFile(clt *core.SDKClient, req *report.GetFileRequest) (*report.GetFileRe
 	}
 	return &resp, nil
 }
-

@@ -1,6 +1,6 @@
 package aweme
 
-import "donson.com.cn/draining/internal/pkg/oceanengine/enum"
+import "github.com/disv5/opensdk/oceanengine/enum"
 
 // Aweme 抖音号
 type Aweme struct {

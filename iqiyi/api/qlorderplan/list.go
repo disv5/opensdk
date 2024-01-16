@@ -1,8 +1,8 @@
 package qlorderplan
 
 import (
-	"donson.com.cn/draining/internal/pkg/iqiyi/core"
-	"donson.com.cn/draining/internal/pkg/iqiyi/model/qlorderplan"
+	"github.com/disv5/opensdk/iqiyi/core"
+	"github.com/disv5/opensdk/iqiyi/model/qlorderplan"
 )
 
 // List 获取广告计划信息

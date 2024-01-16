@@ -10,7 +10,7 @@
 package ads
 
 import (
-	api2 "donson.com.cn/draining/internal/pkg/tencent/api"
+	api2 "github.com/disv5/opensdk/tencent/api"
 )
 
 func (c *SDKClient) AdAppealQuota() *api2.AdAppealQuotaApiService {

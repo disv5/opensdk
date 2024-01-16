@@ -1,8 +1,8 @@
 package thirdsite
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/core"
-	"donson.com.cn/draining/internal/pkg/oceanengine/model/tools/thirdsite"
+	"github.com/disv5/opensdk/oceanengine/core"
+	"github.com/disv5/opensdk/oceanengine/model/tools/thirdsite"
 )
 
 // Get 获取第三方落地页站点列表

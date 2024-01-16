@@ -1,6 +1,6 @@
 package keyword
 
-import "donson.com.cn/draining/internal/pkg/oceanengine/model"
+import "github.com/disv5/opensdk/oceanengine/model"
 
 // Response 关键词 API Response
 type Response struct {

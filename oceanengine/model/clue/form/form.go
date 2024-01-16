@@ -1,6 +1,6 @@
 package form
 
-import "donson.com.cn/draining/internal/pkg/oceanengine/enum"
+import "github.com/disv5/opensdk/oceanengine/enum"
 
 // FormType 表单类型
 type FormType string

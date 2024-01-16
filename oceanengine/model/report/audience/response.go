@@ -1,7 +1,7 @@
 package audience
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/model"
+	"github.com/disv5/opensdk/oceanengine/model"
 )
 
 // Response 受众分析数据报表 API Response

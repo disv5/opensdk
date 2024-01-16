@@ -1,8 +1,8 @@
 package liveroom
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/core"
-	"donson.com.cn/draining/internal/pkg/oceanengine/model/report/liveroom"
+	"github.com/disv5/opensdk/oceanengine/core"
+	"github.com/disv5/opensdk/oceanengine/model/report/liveroom"
 )
 
 // AnalysisGet 直播间分析报表

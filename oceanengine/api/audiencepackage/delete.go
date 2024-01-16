@@ -1,8 +1,8 @@
 package audiencepackage
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/core"
-	"donson.com.cn/draining/internal/pkg/oceanengine/model/audiencepackage"
+	"github.com/disv5/opensdk/oceanengine/core"
+	"github.com/disv5/opensdk/oceanengine/model/audiencepackage"
 )
 
 // Delete 删除定向包

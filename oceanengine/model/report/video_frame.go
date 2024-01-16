@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"time"
 
-	"donson.com.cn/draining/internal/pkg/oceanengine/model"
+	"github.com/disv5/opensdk/oceanengine/model"
 )
 
 // VideoFrameRequest 视频互动流失数据 API Request

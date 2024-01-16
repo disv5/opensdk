@@ -3,7 +3,7 @@ package conversion
 import (
 	"encoding/json"
 
-	"donson.com.cn/draining/internal/pkg/oceanengine/enum"
+	"github.com/disv5/opensdk/oceanengine/enum"
 )
 
 // Request 转化回传参数

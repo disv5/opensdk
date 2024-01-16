@@ -1,6 +1,6 @@
 package audiencepackage
 
-import "donson.com.cn/draining/internal/pkg/oceanengine/enum"
+import "github.com/disv5/opensdk/oceanengine/enum"
 
 // AudiencePackage 定向包信息
 type AudiencePackage struct {

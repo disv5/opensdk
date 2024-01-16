@@ -1,8 +1,8 @@
 package landinggroup
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/core"
-	"donson.com.cn/draining/internal/pkg/oceanengine/model/tools/landinggroup"
+	"github.com/disv5/opensdk/oceanengine/core"
+	"github.com/disv5/opensdk/oceanengine/model/tools/landinggroup"
 )
 
 // Update 更新落地页组信息

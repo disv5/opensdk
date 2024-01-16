@@ -1,6 +1,6 @@
 package unit
 
-import "donson.com.cn/draining/internal/pkg/kwai-marketing-api/model/target"
+import "github.com/disv5/opensdk/kwai-marketing-api/model/target"
 
 // Unit 广告组
 type Unit struct {

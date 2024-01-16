@@ -1,8 +1,8 @@
 package dpa
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/core"
-	"donson.com.cn/draining/internal/pkg/oceanengine/model/dpa"
+	"github.com/disv5/opensdk/oceanengine/core"
+	"github.com/disv5/opensdk/oceanengine/model/dpa"
 )
 
 // VideoGet 获取 DPA 商品库视频模板

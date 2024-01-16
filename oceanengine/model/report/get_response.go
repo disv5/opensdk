@@ -1,7 +1,7 @@
 package report
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/model"
+	"github.com/disv5/opensdk/oceanengine/model"
 )
 
 // GetResponse 数据报表API Response

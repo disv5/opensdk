@@ -1,8 +1,8 @@
 package adraise
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/core"
-	"donson.com.cn/draining/internal/pkg/oceanengine/model/tools/adraise"
+	"github.com/disv5/opensdk/oceanengine/core"
+	"github.com/disv5/opensdk/oceanengine/model/tools/adraise"
 )
 
 // Estimate 获取起量预估值: 用来获取起量预估值

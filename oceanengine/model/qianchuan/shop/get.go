@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"net/url"
 
-	"donson.com.cn/draining/internal/pkg/oceanengine/model"
+	"github.com/disv5/opensdk/oceanengine/model"
 )
 
 // GetRequest 获取店铺账户信息 API Request

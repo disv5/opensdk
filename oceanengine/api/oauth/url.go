@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"strings"
 
-	"donson.com.cn/draining/internal/pkg/oceanengine/core"
+	"github.com/disv5/opensdk/oceanengine/core"
 )
 
 // Url 生成授权链接

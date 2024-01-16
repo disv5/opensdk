@@ -1,9 +1,9 @@
 package ad
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/enum"
-	"donson.com.cn/draining/internal/pkg/oceanengine/enum/qianchuan"
-	"donson.com.cn/draining/internal/pkg/oceanengine/model/qianchuan/creative"
+	"github.com/disv5/opensdk/oceanengine/enum"
+	"github.com/disv5/opensdk/oceanengine/enum/qianchuan"
+	"github.com/disv5/opensdk/oceanengine/model/qianchuan/creative"
 )
 
 // Ad 计划详情

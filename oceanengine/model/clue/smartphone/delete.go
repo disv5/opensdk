@@ -1,7 +1,7 @@
 package smartphone
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/util"
+	"github.com/disv5/opensdk/oceanengine/util"
 )
 
 // DeleteRequest 删除智能电话 API Request

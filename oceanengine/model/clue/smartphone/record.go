@@ -1,8 +1,8 @@
 package smartphone
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/model"
-	"donson.com.cn/draining/internal/pkg/oceanengine/util/query"
+	"github.com/disv5/opensdk/oceanengine/model"
+	"github.com/disv5/opensdk/oceanengine/util/query"
 )
 
 // RecordRequest 查询智能电话拨打记录 API Request

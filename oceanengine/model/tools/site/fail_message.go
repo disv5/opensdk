@@ -1,6 +1,6 @@
 package site
 
-import "donson.com.cn/draining/internal/pkg/oceanengine/model"
+import "github.com/disv5/opensdk/oceanengine/model"
 
 // FailMessage 错误信息
 type FailMessage struct {

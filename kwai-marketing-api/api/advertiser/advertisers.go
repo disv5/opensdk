@@ -1,8 +1,8 @@
 package advertiser
 
 import (
-	"donson.com.cn/draining/internal/pkg/kwai-marketing-api/core"
-	"donson.com.cn/draining/internal/pkg/kwai-marketing-api/model/advertiser"
+	"github.com/disv5/opensdk/kwai-marketing-api/core"
+	"github.com/disv5/opensdk/kwai-marketing-api/model/advertiser"
 )
 
 // AdvertisersGet   获取罗盘绑定广告主列

@@ -3,7 +3,7 @@ package dpa
 import (
 	"encoding/json"
 
-	"donson.com.cn/draining/internal/pkg/oceanengine/model"
+	"github.com/disv5/opensdk/oceanengine/model"
 )
 
 // ProductUpdateRequest 创建DPA商品（已有商品id）/修改DPA商品 API Request

@@ -5,7 +5,7 @@ import (
 	"net/url"
 	"strconv"
 
-	"donson.com.cn/draining/internal/pkg/oceanengine/enum"
+	"github.com/disv5/opensdk/oceanengine/enum"
 )
 
 // GetRequest 获取创意列表 API Request

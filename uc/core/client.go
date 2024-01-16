@@ -2,10 +2,10 @@ package core
 
 import (
 	"bytes"
-	"donson.com.cn/draining/internal/pkg/uc/core/internal/debug"
-	"donson.com.cn/draining/internal/pkg/uc/model"
 	"encoding/json"
 	"fmt"
+	"github.com/disv5/opensdk/uc/core/internal/debug"
+	"github.com/disv5/opensdk/uc/model"
 	"io"
 	"io/ioutil"
 	"mime/multipart"
@@ -75,6 +75,7 @@ func (c *SDKClient) Post2(req model.PostRequest, resp *[][]string) error {
 
 	return nil
 }
+
 // Post execute post api request
 func (c *SDKClient) Post(req model.PostRequest, resp interface{}) error {
 	var reqResp model.Response
@@ -268,7 +269,6 @@ func (c *SDKClient) post2(reqUrl string, reqBytes []byte, resp *[][]string) erro
 
 	return nil
 }
-
 
 // get data through api
 func (c *SDKClient) get(accessToken string, reqUrl string, resp interface{}) error {

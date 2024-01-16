@@ -1,6 +1,6 @@
 package ad
 
-import "donson.com.cn/draining/internal/pkg/oceanengine/util"
+import "github.com/disv5/opensdk/oceanengine/util"
 
 // UpdateBudgetRequest 更新计划预算 API Request
 type UpdateBudgetRequest struct {

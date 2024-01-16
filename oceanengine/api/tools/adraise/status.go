@@ -4,9 +4,9 @@ import (
 	"regexp"
 	"strconv"
 
-	"donson.com.cn/draining/internal/pkg/oceanengine/core"
-	"donson.com.cn/draining/internal/pkg/oceanengine/enum"
-	"donson.com.cn/draining/internal/pkg/oceanengine/model/tools/adraise"
+	"github.com/disv5/opensdk/oceanengine/core"
+	"github.com/disv5/opensdk/oceanengine/enum"
+	"github.com/disv5/opensdk/oceanengine/model/tools/adraise"
 )
 
 // Status 获取当前起量状态: 获取当前起量状态

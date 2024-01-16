@@ -1,8 +1,8 @@
 package coupon
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/core"
-	"donson.com.cn/draining/internal/pkg/oceanengine/model/clue/coupon"
+	"github.com/disv5/opensdk/oceanengine/core"
+	"github.com/disv5/opensdk/oceanengine/model/clue/coupon"
 )
 
 // CodeUpload 上传券码

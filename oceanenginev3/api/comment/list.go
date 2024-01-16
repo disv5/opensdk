@@ -1,8 +1,8 @@
 package comment
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanenginev3/core"
-	"donson.com.cn/draining/internal/pkg/oceanenginev3/model/comment"
+	"github.com/disv5/opensdk/oceanenginev3/core"
+	"github.com/disv5/opensdk/oceanenginev3/model/comment"
 )
 
 func List(clt *core.SDKClient, accessToken string, req *comment.GetCommentListReq) (*comment.CommentListItemData, error) {

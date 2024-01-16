@@ -1,6 +1,6 @@
 package creativeword
 
-import "donson.com.cn/draining/internal/pkg/oceanengine/enum"
+import "github.com/disv5/opensdk/oceanengine/enum"
 
 // CreativeWord 创意词包
 type CreativeWord struct {

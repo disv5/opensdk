@@ -1,7 +1,7 @@
 package oauth
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/model"
+	"github.com/disv5/opensdk/oceanengine/model"
 )
 
 // UserInfoResponse 获取授权User信息 API Response

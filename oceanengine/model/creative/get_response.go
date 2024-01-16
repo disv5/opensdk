@@ -1,7 +1,7 @@
 package creative
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/model"
+	"github.com/disv5/opensdk/oceanengine/model"
 )
 
 // GetResponse 获取创意列表 API Response
@@ -18,4 +18,3 @@ type GetResponseData struct {
 	// PageInfo 分页信息
 	PageInfo *model.PageInfo `json:"page_info,omitempty"`
 }
-

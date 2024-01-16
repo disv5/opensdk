@@ -1,8 +1,8 @@
 package advertiser
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/core"
-	"donson.com.cn/draining/internal/pkg/oceanengine/model/advertiser"
+	"github.com/disv5/opensdk/oceanengine/core"
+	"github.com/disv5/opensdk/oceanengine/model/advertiser"
 )
 
 // FundTransactionGet 查询账号流水明细

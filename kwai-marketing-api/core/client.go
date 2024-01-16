@@ -10,8 +10,8 @@ import (
 	"net/http"
 	"strings"
 
-	"donson.com.cn/draining/internal/pkg/kwai-marketing-api/core/internal/debug"
-	"donson.com.cn/draining/internal/pkg/kwai-marketing-api/model"
+	"github.com/disv5/opensdk/kwai-marketing-api/core/internal/debug"
+	"github.com/disv5/opensdk/kwai-marketing-api/model"
 )
 
 // SDKClient api client

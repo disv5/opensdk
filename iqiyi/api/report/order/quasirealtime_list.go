@@ -1,9 +1,9 @@
 package report
 
 import (
-	"donson.com.cn/draining/internal/pkg/iqiyi/core"
-	"donson.com.cn/draining/internal/pkg/iqiyi/model"
-	"donson.com.cn/draining/internal/pkg/iqiyi/model/report/order"
+	"github.com/disv5/opensdk/iqiyi/core"
+	"github.com/disv5/opensdk/iqiyi/model"
+	"github.com/disv5/opensdk/iqiyi/model/report/order"
 )
 
 // QuasiRealTimeOrderList 效果报表

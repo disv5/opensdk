@@ -1,13 +1,13 @@
 package promotion
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/util"
 	"encoding/json"
+	"github.com/disv5/opensdk/oceanengine/util"
 	"net/url"
 	"strconv"
 
-	"donson.com.cn/draining/internal/pkg/oceanenginev3/enum"
-	"donson.com.cn/draining/internal/pkg/oceanenginev3/model"
+	"github.com/disv5/opensdk/oceanenginev3/enum"
+	"github.com/disv5/opensdk/oceanenginev3/model"
 )
 
 // GetRequest 获取广告计划 API Request

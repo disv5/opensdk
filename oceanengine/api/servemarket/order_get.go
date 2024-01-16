@@ -1,8 +1,8 @@
 package servemarket
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/core"
-	"donson.com.cn/draining/internal/pkg/oceanengine/model/servemarket"
+	"github.com/disv5/opensdk/oceanengine/core"
+	"github.com/disv5/opensdk/oceanengine/model/servemarket"
 )
 
 // OrderGet 获取应用订单数据

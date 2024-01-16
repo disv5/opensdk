@@ -1,8 +1,8 @@
 package creative
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/core"
-	"donson.com.cn/draining/internal/pkg/oceanengine/model/creative"
+	"github.com/disv5/opensdk/oceanengine/core"
+	"github.com/disv5/opensdk/oceanengine/model/creative"
 )
 
 // CustomCreativeCreate 创建自定义创意（营销链路）

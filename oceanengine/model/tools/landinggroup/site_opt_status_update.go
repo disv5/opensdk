@@ -1,8 +1,8 @@
 package landinggroup
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/enum"
-	"donson.com.cn/draining/internal/pkg/oceanengine/util"
+	"github.com/disv5/opensdk/oceanengine/enum"
+	"github.com/disv5/opensdk/oceanengine/util"
 )
 
 // SiteOptStatusUpdateRequest 更新落地页组站点状态 API Request

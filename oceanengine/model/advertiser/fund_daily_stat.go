@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"time"
 
-	"donson.com.cn/draining/internal/pkg/oceanengine/model"
+	"github.com/disv5/opensdk/oceanengine/model"
 )
 
 // FundDailyStatRequest 查询账户日流水 API Request

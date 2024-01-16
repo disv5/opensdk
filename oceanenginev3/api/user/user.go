@@ -1,8 +1,8 @@
 package user
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanenginev3/core"
-	"donson.com.cn/draining/internal/pkg/oceanenginev3/model/user"
+	"github.com/disv5/opensdk/oceanenginev3/core"
+	"github.com/disv5/opensdk/oceanenginev3/model/user"
 )
 
 func Info(clt *core.SDKClient, accessToken string) (*user.UserItemData, error) {

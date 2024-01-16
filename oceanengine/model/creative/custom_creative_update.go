@@ -1,7 +1,7 @@
 package creative
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/util"
+	"github.com/disv5/opensdk/oceanengine/util"
 )
 
 // CustomCreativeUpdateRequest 修改自定义创意 API Request

@@ -1,12 +1,12 @@
 package creative
 
 import (
-	"donson.com.cn/draining/internal/pkg/kwai-marketing-api/core"
-	"donson.com.cn/draining/internal/pkg/kwai-marketing-api/model/creative"
+	"github.com/disv5/opensdk/kwai-marketing-api/core"
+	"github.com/disv5/opensdk/kwai-marketing-api/model/creative"
 )
 
 // Update 修改创意
-//【注】联盟广告不支持便利贴图片素材。
+// 【注】联盟广告不支持便利贴图片素材。
 func Update(clt *core.SDKClient, accessToken string, req *creative.UpdateRequest) (uint64, error) {
 	var resp creative.UpdateResponse
 	err := clt.Post(accessToken, req, &resp)

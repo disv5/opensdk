@@ -1,10 +1,10 @@
 package ad
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/enum"
-	"donson.com.cn/draining/internal/pkg/oceanengine/model"
-	"donson.com.cn/draining/internal/pkg/oceanengine/model/qianchuan/creative"
-	"donson.com.cn/draining/internal/pkg/oceanengine/util"
+	"github.com/disv5/opensdk/oceanengine/enum"
+	"github.com/disv5/opensdk/oceanengine/model"
+	"github.com/disv5/opensdk/oceanengine/model/qianchuan/creative"
+	"github.com/disv5/opensdk/oceanengine/util"
 )
 
 // CreateRequest 创建计划（含创意生成规则）

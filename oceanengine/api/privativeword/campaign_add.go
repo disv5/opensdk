@@ -1,8 +1,8 @@
 package privativeword
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/core"
-	"donson.com.cn/draining/internal/pkg/oceanengine/model/privativeword"
+	"github.com/disv5/opensdk/oceanengine/core"
+	"github.com/disv5/opensdk/oceanengine/model/privativeword"
 )
 
 // CampaignAdd 批量新增组否定词

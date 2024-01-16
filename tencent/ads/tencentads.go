@@ -2,9 +2,9 @@ package ads
 
 import (
 	"context"
-	"donson.com.cn/draining/internal/pkg/tencent/api"
-	config2 "donson.com.cn/draining/internal/pkg/tencent/config"
 	"fmt"
+	"github.com/disv5/opensdk/tencent/api"
+	config2 "github.com/disv5/opensdk/tencent/config"
 	"net/http"
 	"strconv"
 	"time"

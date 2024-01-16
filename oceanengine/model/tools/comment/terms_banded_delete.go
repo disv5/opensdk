@@ -1,7 +1,7 @@
 package comment
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/util"
+	"github.com/disv5/opensdk/oceanengine/util"
 )
 
 // TermsBandedDeleteRequest 删除屏蔽词 API Request

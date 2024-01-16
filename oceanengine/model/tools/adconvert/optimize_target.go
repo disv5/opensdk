@@ -1,6 +1,6 @@
 package adconvert
 
-import "donson.com.cn/draining/internal/pkg/oceanengine/enum"
+import "github.com/disv5/opensdk/oceanengine/enum"
 
 // OptimizeTarget 转化数据
 type OptimizeTarget struct {

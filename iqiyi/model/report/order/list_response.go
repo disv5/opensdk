@@ -1,6 +1,6 @@
 package order
 
-import "donson.com.cn/draining/internal/pkg/iqiyi/model/report"
+import "github.com/disv5/opensdk/iqiyi/model/report"
 
 type ReportData struct {
 	report.Dimensions

@@ -1,7 +1,7 @@
 package report
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/model"
+	"github.com/disv5/opensdk/oceanengine/model"
 )
 
 // IntegratedResponse 多合一数据报表接口 API Response

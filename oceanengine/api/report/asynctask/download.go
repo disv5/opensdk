@@ -1,8 +1,8 @@
 package asynctask
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/core"
-	"donson.com.cn/draining/internal/pkg/oceanengine/model/report/asynctask"
+	"github.com/disv5/opensdk/oceanengine/core"
+	"github.com/disv5/opensdk/oceanengine/model/report/asynctask"
 )
 
 // Download 下载任务结果

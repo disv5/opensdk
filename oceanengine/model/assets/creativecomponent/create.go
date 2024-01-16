@@ -3,8 +3,8 @@ package creativecomponent
 import (
 	"encoding/json"
 
-	"donson.com.cn/draining/internal/pkg/oceanengine/enum"
-	"donson.com.cn/draining/internal/pkg/oceanengine/model"
+	"github.com/disv5/opensdk/oceanengine/enum"
+	"github.com/disv5/opensdk/oceanengine/model"
 )
 
 // CreateRequest 创建组件 API Request

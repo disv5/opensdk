@@ -1,7 +1,7 @@
 package customaudience
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/util"
+	"github.com/disv5/opensdk/oceanengine/util"
 )
 
 // DeleteRequest 删除人群包

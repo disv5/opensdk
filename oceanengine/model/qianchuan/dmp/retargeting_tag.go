@@ -1,6 +1,6 @@
 package dmp
 
-import "donson.com.cn/draining/internal/pkg/oceanengine/enum"
+import "github.com/disv5/opensdk/oceanengine/enum"
 
 // RetargetingTag 人群包
 type RetargetingTag struct {

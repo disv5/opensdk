@@ -1,7 +1,7 @@
 package keyword
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/util"
+	"github.com/disv5/opensdk/oceanengine/util"
 )
 
 // CreateRequest 创建关键词 API Request

@@ -1,6 +1,6 @@
 package creative
 
-import "donson.com.cn/draining/internal/pkg/oceanengine/enum/qianchuan"
+import "github.com/disv5/opensdk/oceanengine/enum/qianchuan"
 
 // VideoMaterial 视频素材
 type VideoMaterial struct {

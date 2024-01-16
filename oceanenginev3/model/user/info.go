@@ -1,7 +1,7 @@
 package user
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/model"
+	"github.com/disv5/opensdk/oceanengine/model"
 )
 
 // GetUserInfoRes 获取授权User信息

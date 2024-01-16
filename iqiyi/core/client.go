@@ -2,16 +2,15 @@ package core
 
 import (
 	"bytes"
-	"donson.com.cn/draining/internal/pkg/iqiyi/core/internal/debug"
-	"donson.com.cn/draining/internal/pkg/iqiyi/model"
 	"encoding/json"
 	"fmt"
+	"github.com/disv5/opensdk/iqiyi/core/internal/debug"
+	"github.com/disv5/opensdk/iqiyi/model"
 	"io"
 	"io/ioutil"
 	"mime/multipart"
 	"net/http"
 	"strings"
-
 )
 
 // SDKClient api client
@@ -92,7 +91,6 @@ func (c *SDKClient) Post(accessToken string, req model.PostRequest, resp interfa
 	}
 	return nil
 }
-
 
 func (c *SDKClient) ReportPost(accessToken string, req model.PostRequest, resp interface{}) error {
 	err := c.post(accessToken, c.PostUrl(req), req.Encode(), resp)

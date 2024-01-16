@@ -1,6 +1,6 @@
 package campaign
 
-import "donson.com.cn/draining/internal/pkg/oceanengine/enum"
+import "github.com/disv5/opensdk/oceanengine/enum"
 
 // Campaign 广告组信息
 type Campaign struct {

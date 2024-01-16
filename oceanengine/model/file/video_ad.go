@@ -3,7 +3,7 @@ package file
 import (
 	"strconv"
 
-	"donson.com.cn/draining/internal/pkg/oceanengine/model"
+	"github.com/disv5/opensdk/oceanengine/model"
 )
 
 // VideoAdRequest 上传广告视频 API Request

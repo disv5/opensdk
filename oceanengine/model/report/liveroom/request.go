@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"time"
 
-	"donson.com.cn/draining/internal/pkg/oceanengine/enum"
+	"github.com/disv5/opensdk/oceanengine/enum"
 )
 
 // Request 直播分析数据报表 API Request

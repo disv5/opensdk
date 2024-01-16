@@ -1,8 +1,8 @@
 package aweme
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/core"
-	"donson.com.cn/draining/internal/pkg/oceanengine/model/tools/aweme"
+	"github.com/disv5/opensdk/oceanengine/core"
+	"github.com/disv5/opensdk/oceanengine/model/tools/aweme"
 )
 
 // AwemeSimilarAuthorSearch 查询抖音类似帐号

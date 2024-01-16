@@ -2,7 +2,7 @@ package ads
 
 import (
 	"context"
-	"donson.com.cn/draining/internal/pkg/tencent/config"
+	"github.com/disv5/opensdk/tencent/config"
 	uuid "github.com/google/uuid"
 	"net/http"
 	"strconv"

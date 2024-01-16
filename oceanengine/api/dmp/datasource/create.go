@@ -1,8 +1,8 @@
 package datasource
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/core"
-	"donson.com.cn/draining/internal/pkg/oceanengine/model/dmp/datasource"
+	"github.com/disv5/opensdk/oceanengine/core"
+	"github.com/disv5/opensdk/oceanengine/model/dmp/datasource"
 )
 
 // Create 数据源创建

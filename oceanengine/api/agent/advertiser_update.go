@@ -1,8 +1,8 @@
 package agent
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/core"
-	"donson.com.cn/draining/internal/pkg/oceanengine/model/agent"
+	"github.com/disv5/opensdk/oceanengine/core"
+	"github.com/disv5/opensdk/oceanengine/model/agent"
 )
 
 // AdvertiserUpdate 修改广告主

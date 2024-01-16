@@ -1,8 +1,8 @@
 package campaign
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/enum"
-	"donson.com.cn/draining/internal/pkg/oceanengine/util"
+	"github.com/disv5/opensdk/oceanengine/enum"
+	"github.com/disv5/opensdk/oceanengine/util"
 )
 
 // UpdateRequest 修改广告组 API Request

@@ -3,7 +3,7 @@ package file
 import (
 	"strconv"
 
-	"donson.com.cn/draining/internal/pkg/kwai-marketing-api/model"
+	"github.com/disv5/opensdk/kwai-marketing-api/model"
 )
 
 // AdVideoUploadRequestV2 上传视频v2接口 API Request

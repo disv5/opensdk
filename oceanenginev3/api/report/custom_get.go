@@ -1,8 +1,8 @@
 package report
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanenginev3/core"
-	"donson.com.cn/draining/internal/pkg/oceanenginev3/model/report"
+	"github.com/disv5/opensdk/oceanenginev3/core"
+	"github.com/disv5/opensdk/oceanenginev3/model/report"
 )
 
 func CustomGet(clt *core.SDKClient, accessToken string, req *report.CustomGetRequest) (*report.CustomGetResponseData, error) {

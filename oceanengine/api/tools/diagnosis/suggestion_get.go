@@ -1,8 +1,8 @@
 package diagnosis
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/core"
-	"donson.com.cn/draining/internal/pkg/oceanengine/model/tools/diagnosis"
+	"github.com/disv5/opensdk/oceanengine/core"
+	"github.com/disv5/opensdk/oceanengine/model/tools/diagnosis"
 )
 
 // SuggestionGet 获取计划诊断建议

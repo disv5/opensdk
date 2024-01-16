@@ -1,8 +1,8 @@
 package tool
 
 import (
-	"donson.com.cn/draining/internal/pkg/kwai-marketing-api/core"
-	"donson.com.cn/draining/internal/pkg/kwai-marketing-api/model/tool"
+	"github.com/disv5/opensdk/kwai-marketing-api/core"
+	"github.com/disv5/opensdk/kwai-marketing-api/model/tool"
 )
 
 // CreativeWordStyles 获取可选的封面贴纸样式

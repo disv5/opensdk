@@ -1,6 +1,6 @@
 package taskraise
 
-import "donson.com.cn/draining/internal/pkg/oceanengine/enum"
+import "github.com/disv5/opensdk/oceanengine/enum"
 
 // Report 任务详情
 type Report struct {

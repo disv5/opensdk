@@ -1,8 +1,8 @@
 package star
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/core"
-	"donson.com.cn/draining/internal/pkg/oceanengine/model/star"
+	"github.com/disv5/opensdk/oceanengine/core"
+	"github.com/disv5/opensdk/oceanengine/model/star"
 )
 
 // ReportOrderOverviewGet 获取订单投后分析报表

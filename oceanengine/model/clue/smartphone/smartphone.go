@@ -1,6 +1,6 @@
 package smartphone
 
-import "donson.com.cn/draining/internal/pkg/oceanengine/enum"
+import "github.com/disv5/opensdk/oceanengine/enum"
 
 // SmartPhone 智能电话
 type SmartPhone struct {

@@ -10,8 +10,8 @@ import (
 	"net/http"
 	"strings"
 
-	"donson.com.cn/draining/internal/pkg/oceanenginev3/core/internal/debug"
-	"donson.com.cn/draining/internal/pkg/oceanenginev3/model"
+	"github.com/disv5/opensdk/oceanenginev3/core/internal/debug"
+	"github.com/disv5/opensdk/oceanenginev3/model"
 )
 
 // SDKClient sdk client

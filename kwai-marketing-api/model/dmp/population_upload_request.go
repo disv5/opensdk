@@ -3,7 +3,7 @@ package dmp
 import (
 	"strconv"
 
-	"donson.com.cn/draining/internal/pkg/kwai-marketing-api/model"
+	"github.com/disv5/opensdk/kwai-marketing-api/model"
 )
 
 // PopulationUploadRequest 人群包上传接口

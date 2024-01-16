@@ -1,6 +1,6 @@
 package creative
 
-import "donson.com.cn/draining/internal/pkg/oceanengine/enum/qianchuan"
+import "github.com/disv5/opensdk/oceanengine/enum/qianchuan"
 
 // ProgrammaticCreativeMedia 程序化创意素材信息
 type ProgrammaticCreativeMedia struct {

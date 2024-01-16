@@ -1,8 +1,8 @@
 package smartphone
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/core"
-	"donson.com.cn/draining/internal/pkg/oceanengine/model/clue/smartphone"
+	"github.com/disv5/opensdk/oceanengine/core"
+	"github.com/disv5/opensdk/oceanengine/model/clue/smartphone"
 )
 
 // Record 查询智能电话拨打记录

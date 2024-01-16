@@ -1,6 +1,6 @@
 package dpa
 
-import "donson.com.cn/draining/internal/pkg/oceanengine/enum"
+import "github.com/disv5/opensdk/oceanengine/enum"
 
 // Video 视频模板
 type Video struct {

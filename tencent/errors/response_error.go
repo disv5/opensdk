@@ -1,7 +1,7 @@
 package errors
 
 import (
-	"donson.com.cn/draining/internal/pkg/tencent/model"
+	"github.com/disv5/opensdk/tencent/model"
 )
 
 // ResponseError ...

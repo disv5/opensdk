@@ -1,6 +1,6 @@
 package track
 
-import "donson.com.cn/draining/internal/pkg/oceanengine/enum"
+import "github.com/disv5/opensdk/oceanengine/enum"
 
 // ActiveRequest 线索-API上报数据 API Request
 type ActiveRequest struct {

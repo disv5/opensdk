@@ -1,8 +1,8 @@
 package audiencepackage
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/core"
-	"donson.com.cn/draining/internal/pkg/oceanengine/model/audiencepackage"
+	"github.com/disv5/opensdk/oceanengine/core"
+	"github.com/disv5/opensdk/oceanengine/model/audiencepackage"
 )
 
 // Create 创建定向包

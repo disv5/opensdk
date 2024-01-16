@@ -3,8 +3,8 @@ package oauth
 import (
 	"net/url"
 
-	"donson.com.cn/draining/internal/pkg/oceanengine/enum"
-	"donson.com.cn/draining/internal/pkg/oceanengine/model"
+	"github.com/disv5/opensdk/oceanengine/enum"
+	"github.com/disv5/opensdk/oceanengine/model"
 )
 
 // AdvertiserGetRequest 获取已授权账户 API Request

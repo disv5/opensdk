@@ -1,8 +1,8 @@
 package aweme
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/core"
-	"donson.com.cn/draining/internal/pkg/oceanengine/model/qianchuan/aweme"
+	"github.com/disv5/opensdk/oceanengine/core"
+	"github.com/disv5/opensdk/oceanengine/model/qianchuan/aweme"
 )
 
 // AuthorizedGet 获取千川账户下已授权抖音号

@@ -2,7 +2,7 @@
 // versions:
 // 	protoc-gen-go v1.26.0
 // 	protoc        v3.17.3
-// source: donson.com.cn/draining/internal/pkg/oceanengine/model/dmp/datasource/dmp.proto
+// source: github.com/disv5/opensdk/oceanengine/model/dmp/datasource/dmp.proto
 
 package datasource
 

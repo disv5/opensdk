@@ -1,6 +1,6 @@
 package event
 
-import "donson.com.cn/draining/internal/pkg/oceanengine/enum"
+import "github.com/disv5/opensdk/oceanengine/enum"
 
 // ConvertOptimizedGoal 优化目标数据
 type ConvertOptimizedGoal struct {

@@ -1,7 +1,7 @@
 package coupon
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/util"
+	"github.com/disv5/opensdk/oceanengine/util"
 )
 
 // EmployeeDeleteRequest 删除核销员 API Request

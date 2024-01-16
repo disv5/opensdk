@@ -1,8 +1,8 @@
 package campaign
 
 import (
-	"donson.com.cn/draining/internal/pkg/uc/model"
 	"encoding/json"
+	"github.com/disv5/opensdk/uc/model"
 )
 
 type GetCampaignByAdGroupIdRequest struct {
