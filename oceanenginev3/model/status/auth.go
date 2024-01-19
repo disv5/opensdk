@@ -1,8 +1,8 @@
 package auth
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanengine/model"
-	"donson.com.cn/draining/internal/pkg/oceanengine/util"
+	"github.com/disv5/opensdk/oceanengine/model"
+	"github.com/disv5/opensdk/oceanengine/util"
 	"net/url"
 	"strconv"
 )

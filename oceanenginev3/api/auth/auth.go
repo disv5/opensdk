@@ -1,8 +1,8 @@
 package auth
 
 import (
-	"donson.com.cn/draining/internal/pkg/oceanenginev3/core"
-	auth "donson.com.cn/draining/internal/pkg/oceanenginev3/model/status"
+	"github.com/disv5/opensdk/oceanenginev3/core"
+	auth "github.com/disv5/opensdk/oceanenginev3/model/status"
 )
 
 func AuthStatus(clt *core.SDKClient, accessToken string, req *auth.AuthGetRequest) (*auth.AuthGetResponseData, error) {
